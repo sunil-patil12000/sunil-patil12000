@@ -1,89 +1,103 @@
-<h1 align="center">👋 Hi, I'm Sunil Patil</h1>
+<!-- Modern GitHub Profile README by Sunil Patil -->
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Sunil Patil</span></h1>
 
 <p align="center">
-  💻 <b>Full Stack Developer</b> | 🧠 <b>MERN & React Native Enthusiast</b> | ☁️ <b>Learning DevOps & System Design</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+React+Native+Engineer;Java+%7C+Python+%7C+Node.js;Building+Scalable+Web+%26+Mobile+Apps;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🌟 About Me  
 
-- 🌟 Passionate about **building modern full-stack web & mobile apps**
-- 💻 Skilled in **Java, MERN Stack, React Native & Python**
-- 🤖 Exploring **AI Integration** and **Cloud Technologies**
-- 🧩 Love solving problems and creating scalable solutions
-- ⚡ Fun fact: I can turn ☕ into clean code!
+💻 **Full Stack Developer** with a strong focus on building modern, responsive web and mobile applications.  
+💡 Passionate about crafting **clean UIs**, **robust APIs**, and **AI-integrated solutions**.  
+📚 Currently learning **DevOps** and **System Design** to scale projects efficiently.  
+☕ Coffee + Code = Productivity 🚀  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal  
 
 #### 💻 **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### 🌐 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### ⚛️ **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### ⚙️ **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-#### 🧩 **Tools & Platforms**
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-
----
-
-### 💼 Featured Projects
-
-#### 🛒 **Farm E-commerce App**
-🧩 *Tech:* React.js, Node.js, Express, MongoDB, Tailwind  
-🌾 Directly connects farmers with buyers with live product tracking and secure payments.
-
-#### 🎓 **Course & Mentorship Platform (AI + MERN)**
-📚 AI-based mentor-student matching system, LMS integration, and dashboards for mentors & students.
-
-#### 📱 **React Native Projects**
-- Cross-platform mobile apps for task management & e-commerce.
-
-#### 💻 Other Projects
-- 🍴 Food App • 📋 Todo App • 📺 YouTube Clone • 💼 Portfolio Website
-
-🔗 [👉 Explore my repositories](https://github.com/your-github-username)
+#### 🧩 **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+## 💼 Featured Projects  
+
+### 🛒 **Farm E-commerce App**  
+🌾 MERN stack app connecting farmers directly to buyers.  
+🛠️ *Tech:* React.js, Node.js, Express, MongoDB, TailwindCSS  
+🔗 Live Demo: *Coming Soon*
+
+---
+
+### 🎓 **AI-Powered Course & Mentorship Platform** *(In Progress)*  
+🤖 AI-driven mentor-student matching with dashboards and LMS.  
+🧠 *Tech:* MERN + Python (AI Integration) + Cloud Hosting  
+
+---
+
+### 📱 **React Native Mobile Apps**  
+📲 Cross-platform apps for productivity and e-commerce.  
+🌐 *Built using:* React Native + Firebase + REST APIs  
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="180em" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sunilpatil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sunilpatil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-⭐ <b>“Code. Learn. Build. Repeat.”</b> ⭐  
-</p>
+<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
