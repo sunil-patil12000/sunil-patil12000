@@ -1,103 +1,73 @@
-<!-- Modern GitHub Profile README by Sunil Patil -->
+# 👋 Hi, I'm Sunil Patil
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Sunil Patil</span></h1>
+🚀 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+React+Native+Engineer;Java+%7C+Python+%7C+Node.js;Building+Scalable+Web+%26+Mobile+Apps;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
-</p>
-
----
-
-## 🌟 About Me  
-
-💻 **Full Stack Developer** with a strong focus on building modern, responsive web and mobile applications.  
-💡 Passionate about crafting **clean UIs**, **robust APIs**, and **AI-integrated solutions**.  
-📚 Currently learning **DevOps** and **System Design** to scale projects efficiently.  
-☕ Coffee + Code = Productivity 🚀  
+I'm a passionate **Full Stack Web Developer** with strong expertise in building scalable, responsive, and user-focused web applications using the **MERN (MongoDB, Express.js, React.js, Node.js)** stack.  
+I love bringing ideas to life through clean code, modern UI/UX, and efficient backend systems.
 
 ---
 
-## 🛠️ Tech Arsenal  
-
-#### 💻 **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-#### ⚛️ **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### ⚙️ **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-#### 🧩 **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+## 🧠 About Me
+- 💻 I specialize in **MERN Stack Development**
+- 🌱 Currently learning **DevOps** and **System Design**
+- 🧩 Interested in building **AI-integrated Web Apps**
+- 💬 Ask me about **React, Node.js, MongoDB, and Express.js**
+- ⚡ Fun fact: I debug better with coffee ☕
 
 ---
 
-## 💼 Featured Projects  
+## 🛠️ Tech Stack
 
-### 🛒 **Farm E-commerce App**  
-🌾 MERN stack app connecting farmers directly to buyers.  
-🛠️ *Tech:* React.js, Node.js, Express, MongoDB, TailwindCSS  
-🔗 Live Demo: *Coming Soon*
+**Frontend:**  
+`React.js` • `Next.js` • `Tailwind CSS` • `JavaScript` • `HTML` • `CSS`
 
----
+**Backend:**  
+`Node.js` • `Express.js` • `REST APIs` • `Authentication & Authorization (JWT, OAuth)`
 
-### 🎓 **AI-Powered Course & Mentorship Platform** *(In Progress)*  
-🤖 AI-driven mentor-student matching with dashboards and LMS.  
-🧠 *Tech:* MERN + Python (AI Integration) + Cloud Hosting  
+**Database:**  
+`MongoDB` • `Mongoose` • `Firebase`
 
----
-
-### 📱 **React Native Mobile Apps**  
-📲 Cross-platform apps for productivity and e-commerce.  
-🌐 *Built using:* React Native + Firebase + REST APIs  
+**Dev Tools & Others:**  
+`Git & GitHub` • `VS Code` • `Postman` • `Docker` • `Vercel` • `Render` • `Netlify`
 
 ---
 
-## 📊 GitHub Analytics  
+## 💼 Projects
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-</p>
+### 🛒 Farm E-commerce Application
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+- A full-featured marketplace connecting farmers directly with buyers.  
+- Real-time inventory management and secure payments.  
+- Deployed using **Render** and **Vercel**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
+### 🎓 Course & Mentorship Platform (Ongoing)
+**Tech Stack:** MERN + AI Integration  
+- AI-driven mentor-student matching system.  
+- Dashboards for both mentors and students.  
+- Integrated LMS and admin management panel.
 
----
+### 🍴 Food App | 📋 Todo App | 📺 YouTube Clone | 💼 Portfolio Website
+- Built during my MERN development journey to master CRUD, authentication, and deployment.  
 
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sunilpatil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+🔗 [Explore all my repositories »](https://github.com/your-github-username)
 
 ---
 
-<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
+## 🧩 GitHub Stats
+
+![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-sunilpatil%40gmail.com-red)](mailto:sunilpatil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/your-github-username)
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."**  
+Thanks for visiting my profile! 😄
